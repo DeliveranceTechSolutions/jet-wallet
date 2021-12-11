@@ -1,0 +1,11 @@
+export const web3_account_loaded: string = 'WEB3_ACCOUNT_LOADED';
+export const web3_balance_loaded: string = 'WEB3_BALANCE_LOADED';
+export const web3_network_loaded: string = 'WEB3_NETWORK_LOADED';
+export const web3_loaded: string = 'WEB3_LOADED';
+export const increment: string = 'increment';
+export const decrement: string = 'decrement';
+export const set_theme: string = "setTheme";
+export const update_theme: string = "updateTheme";
+export const toggle_theme: string = "toggleTheme";
+export const update: string = "update";
+export const eth_base_uri: string = "0x0000000000000000000000000000000000000000";
